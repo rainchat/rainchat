@@ -20,3 +20,4 @@ I'm a Java enthusiast with a passion for building scalable and efficient applica
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bukkit/bukkit-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> BukkitAPI
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/paper/paper-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> Paper
 
+
