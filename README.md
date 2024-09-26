@@ -1,4 +1,4 @@
-![a033300557a148e978e83b431c52773b](https://github.com/user-attachments/assets/9ee58771-1d6e-43b8-bb7b-314016ac0999)### Hi there, I'm [Your Name] 👋
+### Hi there, I'm [Your Name] 👋
 
 I'm a Java enthusiast with a passion for building scalable and efficient applications. Here's a glimpse of my tech stack:
 
