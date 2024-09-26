@@ -1,4 +1,4 @@
-### Hi there, I'm Pavel 👋
+### Hi there, I'm [Your Name] 👋
 
 I'm a Java enthusiast with a passion for building scalable and efficient applications. Here's a glimpse of my tech stack:
 
@@ -12,8 +12,8 @@ I'm a Java enthusiast with a passion for building scalable and efficient applica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" alt="Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original-wordmark.svg" width="40" height="40" alt="BukkitAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original-wordmark.svg" width="40" height="40" alt="Paper"/>
+  <img src="https://bukkit.org/images/logo.png" width="40" height="40" alt="Bukkit"/>
+  <img src="https://papermc.io/images/logo.png" width="40" height="40" alt="Paper"/>
 </p>
 
 ---
@@ -32,3 +32,5 @@ Here are some of the projects I've been working on:
 - [Project 1](https://github.com/yourusername/project1): Brief description of what this project is about.
 - [Project 2](https://github.com/yourusername/project2): Brief description of what this project is about.
 - [Project 3](https://github.com/yourusername/project3): Brief description of what this project is about.
+
+I'm always looking to learn and improve, so feel free to reach out if you have any questions or just want to chat about tech! 😊
