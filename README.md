@@ -1,23 +1,22 @@
-## Hi there 👋
+### Hi there 👋
 
+I'm a Java enthusiast with a passion for building scalable and efficient applications. My tech stack includes:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" />
-          
+**Programming Languages:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> Java
 
-            
-          
-          
-<!--
-**rainchat/rainchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frameworks:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> Spring
 
-Here are some ideas to get you started:
+**Databases:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> SQLite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Servers:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> Apache
+
+**Gaming APIs:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bukkit/bukkit-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> BukkitAPI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/paper/paper-plain-wordmark.svg" width="40" height="40" style="border: 1px solid #FFFFFF;" /> Paper
+
