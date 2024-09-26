@@ -13,7 +13,7 @@ I'm a Java enthusiast with a passion for building scalable and efficient applica
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40" alt="Apache"/>
   <img src="https://www.vhv.rs/dpng/d/445-4454243_craft-bukkit-logo-spigot-logo-hd-png-download.png" width="40" height="40" alt="Bukkit"/>
-  <img src="https://in.pinterest.com/pin/papermc-logo-png-vector-svg-free-download-in-2023--400046379416750299/" width="40" height="40" alt="Paper"/>
+  <img src="https://www.reddit.com/r/admincraft/comments/93ble5/what_is_paper_spigot_and_why_you_should_use_it/" width="40" height="40" alt="Paper"/>
 </p>
 
 ---
